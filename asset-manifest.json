@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/woben/static/css/main.c86259be.css",
+    "main.js": "/woben/static/js/main.de11c05e.js",
+    "static/media/laptop.jpg": "/woben/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/woben/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/woben/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/woben/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/woben/index.html",
+    "main.c86259be.css.map": "/woben/static/css/main.c86259be.css.map",
+    "main.de11c05e.js.map": "/woben/static/js/main.de11c05e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86259be.css",
+    "static/js/main.de11c05e.js"
+  ]
+}
