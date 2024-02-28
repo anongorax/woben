@@ -18,11 +18,11 @@ function NavBar() {
         <li class="p-4 whitespace-nowrap">Contact Me!</li>
       </ul>
       <div onClick={handleNav} class="block md:hidden">
-        {!nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
+        {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
       </div>
       <div
         class={
-          !nav
+          nav
             ? "fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500"
             : "fixed left-[-100%]"
         }
