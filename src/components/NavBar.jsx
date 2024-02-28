@@ -15,7 +15,7 @@ function NavBar() {
         <li class="p-4 whitespace-nowrap">Bio</li>
         <li class="p-4 whitespace-nowrap">Favourite Resources</li>
         <li class="p-4 whitespace-nowrap">Recommanded Resources</li>
-        <li class="p-4 whitespace-nowrap">Contact Me</li>
+        <li class="p-4 whitespace-nowrap">Contact Me!</li>
       </ul>
       <div onClick={handleNav} class="block md:hidden">
         {!nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
